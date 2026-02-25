@@ -1,1 +1,4 @@
-hw3_test/
+.DS_Store
+**/ .DS_Store
+*.egg-info/
+__pycache__/
